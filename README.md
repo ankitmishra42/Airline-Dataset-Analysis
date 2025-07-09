@@ -44,4 +44,4 @@ This dashboard can help airline management:
 ---
 
 **Created by:** Ankit Mishra  
-**Connect with me on [LinkedIn](https://www.linkedin.com/in/ankit-mishra-anengneer)**  
+**Connect with me on [LinkedIn](https://www.linkedin.com/in/ankit-mishra-anengineer)**  
